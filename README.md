@@ -9,3 +9,7 @@ https://christophm.github.io/interpretable-ml-book/
 				Aprendizaje automático: desarrollando python
 				Aprendizaje profundo: explotando python
         Futuro: empezó ayer pero se define hoy. ¿De cero a Singularidad?
+
+
+#ML
+https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
