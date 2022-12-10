@@ -13,3 +13,6 @@ https://christophm.github.io/interpretable-ml-book/
 
 #ML
 https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
+
+Referente de Libros:
+https://www.eefabook.org/go-to-the-book.html
