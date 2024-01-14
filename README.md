@@ -10,6 +10,11 @@ https://christophm.github.io/interpretable-ml-book/
 				Aprendizaje profundo: explotando python
         Futuro: empezó ayer pero se define hoy. ¿De cero a Singularidad?
 
+Some inspirations:
+book Numbers.
+the power of word:
+mohammed Qahtani speech
+
 
 #ML
 https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
